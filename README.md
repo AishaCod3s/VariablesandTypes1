@@ -1,2 +1,2 @@
 # VariablesandTypes1
-Erbaver assignment for the Variables and Types class
+Erbaver program assignment. Multiply, divide and subtract integers provided by the user using variables and types.
